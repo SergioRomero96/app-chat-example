@@ -1,0 +1,10 @@
+.chat-interface{
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  border-top: 2px solid rgb(179,78,79);
+}
+
+.margin-chat-interface{
+  margin-top: 175px;
+}
